@@ -26,6 +26,8 @@ A simple GUI tool that creates a symbolic link from your local VRChat folder (in
 
 ---
 
+Note: This will delete the folder in `C:\Users\<YourName>\AppData\LocalLow\VRChat` so if you want to keep your current cache then back it up.
+
 ## 🚀 How to Use
 
 1. **Open PowerShell as Administrator**  
